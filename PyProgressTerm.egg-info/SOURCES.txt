@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+PyProgressTerm.py
+README.md
+setup.py
+PyProgressTerm.egg-info/PKG-INFO
+PyProgressTerm.egg-info/SOURCES.txt
+PyProgressTerm.egg-info/dependency_links.txt
+PyProgressTerm.egg-info/entry_points.txt
+PyProgressTerm.egg-info/top_level.txt
