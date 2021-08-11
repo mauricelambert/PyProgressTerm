@@ -3,6 +3,9 @@
 ## Description
 
 This package implement a customizable progress bar and rotating animation.
+ - timed progress bar
+ - colored progress bar
+ - rotating animation in progress bar
 
 ## Requirements
 This package require:
@@ -103,9 +106,9 @@ progress.thread_infinity_run(function_name="rotating_animation")
 
 ## Pictures
 
-![Basic progress bar](https://mauricelambert.github.io/info/python/code/ProgressBar.png "Basic progress bar")
-![Timed progress bar](https://mauricelambert.github.io/info/python/code/ProgressBarTimed.png "Timed progress bar")
-![Colored progress bar](https://mauricelambert.github.io/info/python/code/ProgressBarColored.png "Colored progress bar")
+![Basic progress bar](https://mauricelambert.github.io/info/python/code/ProgressBar.PNG "Basic progress bar")
+![Timed progress bar](https://mauricelambert.github.io/info/python/code/ProgressBarTimed.PNG "Timed progress bar")
+![Colored progress bar](https://mauricelambert.github.io/info/python/code/ProgressBarColored.PNG "Colored progress bar")
 
 ## License
 Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
