@@ -41,7 +41,7 @@ setup(
 
     entry_points = {
         'console_scripts': [
-            'pipupgrade = PyProgressTerm:main'
+            'ProgressTerm = PyProgressTerm:main'
         ],
     },
     python_requires='>=3.6',
